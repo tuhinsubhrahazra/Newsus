@@ -1,7 +1,7 @@
 # Newsus
 The sort news app for Android 
 
-<img src="/ScreenShots/NewsusIcon.png" width="250" title="logo">
+<img src="/ScreenShots/NewsusLogo.png" width="250" title="logo">
 <img src="/ScreenShots/iconname-cutout.png" width="250" title="logo">
 
 ## App info 
@@ -23,8 +23,8 @@ alt="" width="240" height="180" border="10" /></a>
 <h3>Screenshots</h3>
 
 <div class="row">
-      <img src="/ScreenShots/Screenshot_2021-06-18-12-51-30-197_com.tuhin.newsapp.jpg" width="250" title="Screen shot">
-      <img src="/ScreenShots/Screenshot_2021-06-18-12-51-34-343_com.tuhin.newsapp.jpg" width="250" title="Screen shot"> 
+      <img src="/ScreenShots/ss1/jpg" width="250" title="Screen shot">
+      <img src="/ScreenShots/ss2.jpg" width="250" title="Screen shot"> 
 </div>
 
 
